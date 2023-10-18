@@ -1,2 +1,2 @@
 # Admin_CRM
-Admin CRM website whereby login the user authentication. User can access the list of all the employees profile in database on UI.
+CRM website project where user can register himself and By login create his own data records easily. User can delete, modify and update the data thru in My SQL database. He can also filterout the data for extract correct desier data.
