@@ -20,5 +20,6 @@ python manage.py migrate
 **In order to run this project, execute:**
 ```
 python manage.py runserver
-open http://127.0.0.1:8000/ on your browser
 ```
+open http://127.0.0.1:8000/ on your browser
+
